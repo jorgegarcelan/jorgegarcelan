@@ -1,13 +1,20 @@
-<h1 align="center">Hello, I'm Jorge Garcelán! <span>👋🚀</span></h1>
+<h1 align="center">Hi there, I'm <strong>Jorge Garcelán</strong> 👋🚀</h1>
 
-<h3 align="center">AI Enthusiast | Data Scientist | Machine Learning Explorer</h3>
+<h3 align="center">🔍 Passionate about AI & Data Science | 💻 Turning Data into Action | 🧠 Machine Learning Researcher</h3>
+
+<p align="center">
+   <em>"Driven by curiosity, powered by data, and fueled by innovation."</em>
+</p>
+
 
 
 ## 🧠 Bio
 
 <div style="display: flex; align-items: center;">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY0Mm1uaXVmbG50bzlya3M0YW8zaXBhYzZlYThmYm93MjFmcm91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif"/>
-  <p align="left">AI & Data Science graduate with a passion for data-driven decisions. Skills in Python, R, SQL, ML, DL. Researcher @Gatech Data Science Lab and @uc3m.</p>
+  <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>AI & Data Science graduate</strong> with a passion for <em>data-driven decisions</em>.</p>
+  <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>Skills</strong> in <em>Python, R, SQL, ML, DL</em>.</p>
+  <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Researcher <strong>@Gatech Data Science Lab</strong> and <strong>@uc3m</strong>.</p>
 </div>
 
 <br clear="both" />
@@ -16,10 +23,11 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlrY3FjeGhrOHByN2s1eDV6OXF4eWF3OG9pdnF3MHJidzluYXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
-    <p align="left">M.Sc. in Applied Artificial Intelligence - Universidad Carlos III de Madrid (Expected Sep 2024)</p>
-    <p align="left">B.S. in Data Science and Engineering - Universidad Carlos III de Madrid</p>
-    <p align="left">B.S. in Computer Science (Exchange Year) - Georgia Institute of Technology (Aug 2022 - May 2023)</p>
+    <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>M.Sc. in Applied Artificial Intelligence</strong> - <em>Universidad Carlos III de Madrid</em> (Expected Sep 2024)</p>
+    <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.S. in Data Science and Engineering</strong> - <em>Universidad Carlos III de Madrid</em></p>
+    <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.S. in Computer Science (Exchange Year)</strong> - <em>Georgia Institute of Technology</em> (Aug 2022 - May 2023)</p>
 </div>
+
 
 <br clear="both" />
 
@@ -65,9 +73,6 @@
   <img src="https://streak-stats.demolab.com?user=jorgegarcelan&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## 🐍 Watch my contributions snake its way around the grid!
-
-<img src="https://raw.githubusercontent.com/jorgegarcelan/jorgegarcelan/output/snake.svg" alt="Snake animation" />
 
 ## 📬 Reach Out
 
