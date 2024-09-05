@@ -1,42 +1,29 @@
-<h1 align="left">Hello 👋! I'm Jorge Garcelán 🚀</h1>
+<h1 align="center">Hello, I'm Jorge Garcelán! <span>👋🚀</span></h1>
 
-###
+<h3 align="center">AI Enthusiast | Data Scientist | Machine Learning Explorer</h3>
 
-<p align="left"></p>
 
-###
+## 🧠 Bio
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY0Mm1uaXVmbG50bzlya3M0YW8zaXBhYzZlYThmYm93MjFmcm91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif"  />
+<div style="display: flex; align-items: center;">
+  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY0Mm1uaXVmbG50bzlya3M0YW8zaXBhYzZlYThmYm93MjFmcm91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif"/>
+  <p align="left">AI & Data Science graduate with a passion for data-driven decisions. Skills in Python, R, SQL, ML, DL. Researcher @Gatech Data Science Lab and @uc3m.</p>
+</div>
 
-###
+<br clear="both" />
 
-<h2 align="left">🧠 Bio</h2>
+## 🎓 Education
 
-###
+<div style="display: flex; align-items: center;">
+  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlrY3FjeGhrOHByN2s1eDV6OXF4eWF3OG9pdnF3MHJidzluYXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+    <p align="left">M.Sc. in Applied Artificial Intelligence - Universidad Carlos III de Madrid (Expected Sep 2024)</p>
+    <p align="left">B.S. in Data Science and Engineering - Universidad Carlos III de Madrid</p>
+    <p align="left">B.S. in Computer Science (Exchange Year) - Georgia Institute of Technology (Aug 2022 - May 2023)</p>
+</div>
 
-<br clear="both">
+<br clear="both" />
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlrY3FjeGhrOHByN2s1eDV6OXF4eWF3OG9pdnF3MHJidzluYXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
-
-###
-
-<h3 align="left">AI & Data Science graduate w/ a passion for data-driven decisions. Skills in Python, R, SQL, ML, DL. Researcher @Gatech Data Science Lab and @uc3m</h3>
-
-###
-
-<h3 align="left">🎓 Education</h3>
-
-###
-
-<h4 align="left">- M.Sc. in Applied Artificial Intelligence <br>  Universidad Carlos III de Madrid (Expected Sep 2024)<br>  <br>- B.S. in Data Science and Engineering<br>  Universidad Carlos III de Madrid<br><br>  - B.S. in Computer Science (Exchange Year)<br>  Georgia Institute of Technology (Aug 2022 - May 2023)</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🛠️ Skills</h2>
-
-###
+## 🛠️ Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -70,11 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorgegarcelan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -82,31 +65,23 @@
   <img src="https://streak-stats.demolab.com?user=jorgegarcelan&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<h2 align="left">🐍 Watch my contributions snake its way around the grid!</h2>
-
-###
+## 🐍 Watch my contributions snake its way around the grid!
 
 <img src="https://raw.githubusercontent.com/jorgegarcelan/jorgegarcelan/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h2 align="left">📬 Reach Out</h2>
-
-###
+## 📬 Reach Out
 
 <p align="left">I’m always open to connecting with like-minded professionals, collaborators, or anyone curious about data science and AI. Whether it's to discuss a potential project, brainstorm new ideas, or just chat about the latest trends in AI, feel free to reach out!</p>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jgarcelan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="https://x.com/jgarcelan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo" />
+  </a>
+  <a href="mailto:jorgegarcelan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
 
-###
