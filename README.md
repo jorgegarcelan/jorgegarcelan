@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlrY3FjeGhrOHByN2s1eDV6OXF4eWF3OG9pdnF3MHJidzluYXF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
-    <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>M.Sc. in Applied Artificial Intelligence</strong> - <em>Universidad Carlos III de Madrid</em> (Expected Sep 2024)</p>
+    <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>M.Sc. in Applied Artificial Intelligence</strong> - <em>Universidad Carlos III de Madrid</em> (Expected 2026)</p>
     <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.S. in Data Science and Engineering</strong> - <em>Universidad Carlos III de Madrid</em></p>
     <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>B.S. in Computer Science (Exchange Year)</strong> - <em>Georgia Institute of Technology</em> (Aug 2022 - May 2023)</p>
 </div>
