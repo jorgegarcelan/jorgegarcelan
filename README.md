@@ -2,12 +2,6 @@
 
 <h3 align="center">🔍 Passionate about AI & Data Science | 💻 Turning Data into Action | 🧠 Machine Learning Researcher</h3>
 
-<p align="center">
-   <em>"Driven by curiosity, powered by data, and fueled by innovation."</em>
-</p>
-
-
-
 ## 🧠 Bio
 
 <div style="display: flex; align-items: center;">
