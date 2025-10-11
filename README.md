@@ -68,11 +68,17 @@
 </div>
 
 
-## 📬 Reach Out
+## 📬 Let's Connect!
 
-<p align="left">I’m always open to connecting with like-minded professionals, collaborators, or anyone curious about data science and AI. Whether it's to discuss a potential project, brainstorm new ideas, or just chat about the latest trends in AI, feel free to reach out!</p>
+<p align="center">🚀 <strong>Ready to collaborate on something amazing?</strong></p>
 
-<div align="left">
+<p align="center">I'm always excited to connect with fellow data scientists, AI researchers, and tech enthusiasts! Whether you want to:</p>
+
+<div align="center">
+  <p>💡 <strong>Discuss AI research</strong> | 🤝 <strong>Collaborate on projects</strong> | 📊 <strong>Share data insights</strong> | ☕ <strong>Grab a virtual coffee</strong></p>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/jgarcelan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
@@ -83,4 +89,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorgegarcelan&label=Profile%20views&color=0e75b6&style=flat" alt="jorgegarcelan" />
+</p>
+
 
