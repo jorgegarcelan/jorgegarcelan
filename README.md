@@ -110,11 +110,6 @@ I run **[The Corporate Layer](https://thecorporatelayer.substack.com/)** — a n
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://TU-NUEVA-URL-DE-VERCEL.vercel.app/api?username=jorgegarcelan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F7FF5&icon_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://TU-NUEVA-URL-DE-VERCEL.vercel.app/api/top-langs?username=jorgegarcelan&layout=compact&langs_count=6&hide_border=true&title_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="top langs" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=jorgegarcelan&hide_border=true&ring=1F7FF5&fire=FF9900&currStreakLabel=1F7FF5&background=00000000&stroke=6b7280&sideNums=1F7FF5&sideLabels=6b7280&dates=cfd4da" alt="streak" />
 </div>
 
