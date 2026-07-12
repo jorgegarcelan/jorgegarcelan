@@ -45,7 +45,7 @@ Today I focus on **responsible, real-world AI**: models that ship, systems that 
 
 | | | |
 |:--|:--|:--|
-| 🌍 **Co-founder** | `Uniwords` | A community-powered social platform for student mobility |
+| 🌍 **Co-founder** | [`Uniwords`](https://www.uniwordstudents.com) | A community-powered social platform for student mobility |
 | 🧩 **AI Solutions Architect** | `Multiverse Computing` | Technical proposals & demos for quantum-inspired AI |
 | 🔬 **Graduate AI Researcher** | `UC3M` | Multi-agent NLP pipelines to detect & quantify gender bias in media |
 
@@ -110,8 +110,8 @@ I run **[The Corporate Layer](https://thecorporatelayer.substack.com/)** — a n
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgegarcelan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F7FF5&icon_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgegarcelan&layout=compact&langs_count=6&hide_border=true&title_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="top langs" />
+  <img height="165" src="https://TU-NUEVA-URL-DE-VERCEL.vercel.app/api?username=jorgegarcelan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1F7FF5&icon_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://TU-NUEVA-URL-DE-VERCEL.vercel.app/api/top-langs?username=jorgegarcelan&layout=compact&langs_count=6&hide_border=true&title_color=1F7FF5&text_color=6b7280&bg_color=00000000" alt="top langs" />
 </div>
 
 <div align="center">
